@@ -57,6 +57,6 @@
     "react-test-renderer": "19.2.4",
     "supertest": "^7.0.0",
     "ts-jest": "^29.0.1",
-    "typescript": "^5.0.2"
+    "typescript": "^6.0.2"
   }
 }
